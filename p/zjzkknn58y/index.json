@@ -1,0 +1,28 @@
+{
+  "empresa": "Vidraçaria Teste Claude",
+  "oficio": "vidracaria",
+  "cidade": "Campinas (SP)",
+  "status": "teste_entregue",
+  "email": "claude+teste@postaobra.test",
+  "instagram": "vidracariateste",
+  "atualizado": "2026-09-16T21:36-03:00",
+  "posts": [
+    {
+      "data": "2026-09-16",
+      "slug": "erro-de-medir-e-mandar-cortar",
+      "oficio": "vidracaria",
+      "gancho": "Mediu você mesmo e mandou cortar? Erro",
+      "slides": [
+        "slide-01.jpg",
+        "slide-02.jpg",
+        "slide-03.jpg",
+        "slide-04.jpg",
+        "slide-05.jpg",
+        "slide-06.jpg",
+        "slide-07.jpg"
+      ],
+      "legenda": "Mediu o vão com a sua fita e mandou fabricar o vidro? Esse é um dos erros mais caros da reforma. Vidro temperado não pode ser cortado, furado nem lixado depois da têmpera: se a medida veio errada, a peça é perdida inteira. E a fita não mostra parede fora de prumo, piso fora de nível, a folga que cada sistema pede, a posição das ferragens nem o azulejo que ainda vai entrar. Por isso a medida final é de quem instala, com prumo, nível, três pontos por lado e croqui. Não é desconfiança: é onde a garantia começa. Quer adiantar?\n\nNa Vidraçaria Teste Claude, fazemos box, espelhos e fechamento de sacada em Campinas e região há 9 anos.\n\nMande foto e medida aproximada para orçar; a Vidraçaria Teste Claude confirma no local antes de fabricar, em qualquer bairro de Campinas (SP). Chame no WhatsApp e mande o seu vão.\n\n#vidracaria #vidrotemperado #reforma #dicasdeobra #boxdevidro #campinas #campinassp",
+      "pasta": "2026-09-16-erro-de-medir-e-mandar-cortar"
+    }
+  ]
+}
