@@ -2,9 +2,28 @@
   "empresa": "Vidraçaria Ensaio",
   "oficio": "vidracaria",
   "cidade": "Amparo (SP)",
+  "status": "ativo",
+  "email": "ensaio-teste@example.com",
   "instagram": "vidracariaensaio",
-  "atualizado": "2026-09-15T11:29-03:00",
+  "atualizado": "2026-09-17T11:29-03:00",
   "posts": [
+    {
+      "data": "2026-09-17",
+      "slug": "guarda-corpo-de-vidro-so-laminado",
+      "oficio": "vidracaria",
+      "gancho": "Guarda-corpo de vidro: só laminado",
+      "slides": [
+        "slide-01.jpg",
+        "slide-02.jpg",
+        "slide-03.jpg",
+        "slide-04.jpg",
+        "slide-05.jpg",
+        "slide-06.jpg",
+        "slide-07.jpg"
+      ],
+      "legenda": "Guarda-corpo de vidro é a peça mais bonita e mais séria da vidraçaria. Ele existe para impedir a queda, e por isso a NBR 14718 exige vidro laminado (ou laminado temperado) e altura mínima de 1,10 m a partir do piso acabado. O temperado sozinho, por mais grosso que seja, quebra em grãos e some inteiro do vão, exatamente o que um guarda-corpo não pode fazer. O laminado quebra e fica no lugar, preso na película, até ser trocado. Na Vidraçaria Ensaio, guarda-corpo sai com tipo de vidro, espessura calculada, fixação e altura escritos no orçamento. Vai fazer sacada, mezanino ou escada em Amparo (SP)? Chame no WhatsApp antes de decidir o vidro.\n\n#vidracaria #guardacorpo #vidrolaminado #sacada #construcaocivil #seguranca #amparo #amparosp",
+      "pasta": "2026-09-17-guarda-corpo-de-vidro-so-laminado"
+    },
     {
       "data": "2026-09-15",
       "slug": "box-temperado-8-mm",
