@@ -5,8 +5,25 @@
   "status": "ativo",
   "email": "ensaio-teste@example.com",
   "instagram": "vidracariaensaio",
-  "atualizado": "2026-09-19T10:29-03:00",
+  "atualizado": "2026-09-22T11:12-03:00",
   "posts": [
+    {
+      "data": "2026-09-22",
+      "slug": "espessura-do-vidro-por-tamanho-do-vao",
+      "oficio": "vidracaria",
+      "gancho": "Vidro maior pede vidro mais grosso",
+      "slides": [
+        "slide-01.jpg",
+        "slide-02.jpg",
+        "slide-03.jpg",
+        "slide-04.jpg",
+        "slide-05.jpg",
+        "slide-06.jpg",
+        "slide-07.jpg"
+      ],
+      "legenda": "Por que um vidro grande precisa ser mais grosso que um pequeno? Porque o vidro trabalha como uma placa: quanto maior o vão, mais ele flexiona com vento, batida e o próprio peso, e mais perto chega do limite. A espessura certa depende da área da chapa, de como ela é apoiada e da carga de vento do local, e a NBR 7199:2025 traz o procedimento para essa conta. Espessura de costume funciona em vão de costume; peça grande, fachada alta ou vidro apoiado só em pontos pede cálculo. Na Vidraçaria Ensaio, cada vão fora do padrão é dimensionado antes de virar orçamento. Tem um vão grande em Amparo (SP) e quer saber que vidro cabe nele? Chame no WhatsApp e mande as medidas.\n\n#vidracaria #vidrotemperado #fachada #arquitetura #construcaocivil #amparo #amparosp",
+      "pasta": "2026-09-22-espessura-do-vidro-por-tamanho-do-vao"
+    },
     {
       "data": "2026-09-19",
       "slug": "comparar-tres-orcamentos",
