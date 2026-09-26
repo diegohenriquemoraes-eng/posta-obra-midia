@@ -5,8 +5,25 @@
   "status": "ativo",
   "email": "ensaio-teste@example.com",
   "instagram": "vidracariaensaio",
-  "atualizado": "2026-09-24T11:28-03:00",
+  "atualizado": "2026-09-26T10:53-03:00",
   "posts": [
+    {
+      "data": "2026-09-26",
+      "slug": "orcamento-por-escrito",
+      "oficio": "nucleo",
+      "gancho": "Sete itens que o orçamento precisa ter",
+      "slides": [
+        "slide-01.jpg",
+        "slide-02.jpg",
+        "slide-03.jpg",
+        "slide-04.jpg",
+        "slide-05.jpg",
+        "slide-06.jpg",
+        "slide-07.jpg"
+      ],
+      "legenda": "Orçamento falado não protege ninguém. O que foi combinado por telefone vira uma lembrança diferente em cada cabeça, e a discussão aparece justamente quando a obra está pela metade. Sete itens precisam estar no papel antes de você fechar: os dados da empresa, a descrição do serviço com medidas, o material, o valor total, o prazo, a forma de pagamento e a garantia. A lei do consumidor prevê orçamento prévio de serviço, e ele vale dez dias se nada for combinado. A Vidraçaria Ensaio, em Amparo (SP), entrega o orçamento com esses sete itens escritos, para que a obra comece sem dúvida de nenhum dos lados. Quer receber o seu assim? Chame no WhatsApp.\n\n#orcamento #reforma #obra #construcaocivil #dicasdereforma #vidracaria #amparo #amparosp",
+      "pasta": "2026-09-26-orcamento-por-escrito"
+    },
     {
       "data": "2026-09-24",
       "slug": "vidro-que-estourou-sozinho",
